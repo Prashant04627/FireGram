@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Firebase Photo Gallery
+
+An elegant photo gallery website powered by Firebase.
+
+Overview
+
+This web application showcases a collection of photos stored in Firebase Storage. Users can explore, upload, and manage photos seamlessly.
+
+Features
+Browse Photos: View a collection of photos in a beautiful gallery layout.
+Upload Photos: Users can upload their own photos to the gallery.
+Firebase Integration: Utilizes Firebase for storage and database functionalities.
+Technologies Used
+Firebase: Cloud storage and databases.
+HTML, CSS, JavaScript, React
 
 ## Available Scripts
 
